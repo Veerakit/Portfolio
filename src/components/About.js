@@ -19,9 +19,8 @@ const About = () => {
                         <div>
                             <p className="text-justify text-2xl indent-10 py-1">After graduated from the University, I felt my skills were not capable with the VUCA world. 
                                 This is the reason why I started to learn programming in order to acquire Business expertise and Technology expertise. 
-                                Mainly use <span className="text-yellow-300">JavaScript</span>.
-                            <p>
-                                Currently, working on building <b>MERN</b> stacks (including <span className="text-green-300">MongoDB</span>, <span className="text-yellow-300">Express</span>, <span className="text-blue-300">Reactjs</span> and <span className="text-green-500">Nodejs</span>) skills and exploring Technology field to find the job which suits me.</p>
+                                Mainly use <span className="text-yellow-300">JavaScript</span>. Currently, learning <span className="text-yellow-300"> Python </span> 
+                                and <span className="text-yellow-300"> SQL</span>. Looking forward to learning about <span className="text-yellow-300">Data Science</span> and <span className="text-yellow-300">Software Testing</span>.
                             </p>
                         </div>
                     </div>
