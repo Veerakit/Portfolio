@@ -121,9 +121,9 @@ const Navbar = () => {
                     </li>
 
                     <li className="w-[140px] h-[60px] rounded-xl flex justify-between items-center ml-[-80px] hover:ml-[-10px] duration-300 bg-[#f52121] ">
-                        <a className="flex justify-between items-center w-full text-white" href='/' target="_blank">
-                            Gmail <SiGmail size={30}/> 
-                        </a>
+                        <Link to='contact' smooth={true} duration={500} className="flex justify-between items-center w-full text-white">
+                                Gmail <SiGmail size={30}/>
+                        </Link>
                     </li>
                     <li className="w-[140px] h-[60px] rounded-xl flex justify-between items-center ml-[-80px] hover:ml-[-10px] duration-300 bg-[#334acf] ">
                         <a className="flex justify-between items-center w-full text-white" href='https://www.facebook.com/shiburuki.toto' target="_blank">
